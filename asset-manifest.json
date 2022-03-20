@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CharmiWorld/static/css/main.073c9b0a.css",
+    "main.js": "/CharmiWorld/static/js/main.e877df36.js",
+    "static/js/787.0a160fcf.chunk.js": "/CharmiWorld/static/js/787.0a160fcf.chunk.js",
+    "static/media/logo.svg": "/CharmiWorld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CharmiWorld/index.html",
+    "main.073c9b0a.css.map": "/CharmiWorld/static/css/main.073c9b0a.css.map",
+    "main.e877df36.js.map": "/CharmiWorld/static/js/main.e877df36.js.map",
+    "787.0a160fcf.chunk.js.map": "/CharmiWorld/static/js/787.0a160fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e877df36.js"
+  ]
+}
